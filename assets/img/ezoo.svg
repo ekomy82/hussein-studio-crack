@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Ezoo Download">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="24" fill="url(#g)"/>
+  <path d="M48 26v24" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M38 42l10 10 10-10" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 58v6a6 6 0 0 0 6 6h24a6 6 0 0 0 6-6v-6" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

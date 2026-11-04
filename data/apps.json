@@ -1,0 +1,474 @@
+{
+  "updated": "2026-11-04",
+  "apps": [
+    {
+      "id": "ezoo-download",
+      "name": "Ezoo Download",
+      "publisher": "hussein",
+      "icon": "assets/img/ezoo.svg",
+      "accent": "#7c5cff",
+      "category": "download",
+      "featured": true,
+      "version": "1.0.9",
+      "released": "2026-11-04",
+      "license": "GPL-3.0",
+      "platforms": [
+        "macos"
+      ],
+      "tagline": {
+        "fr": "Téléchargez plus vite, reprenez où vous vous êtes arrêté.",
+        "ar": "نزّل أسرع، واستأنف من حيث توقفت.",
+        "en": "Download faster and resume right where you left off."
+      },
+      "description": {
+        "fr": "Ezoo Download découpe chaque fichier en plusieurs connexions pour saturer votre bande passante, et reprend le téléchargement après une coupure, même si vous avez fermé l'application. Vidéo, audio, archives ou gros fichiers : tout est organisé automatiquement, avec des files d'attente, un planificateur et une limitation de vitesse.",
+        "ar": "يقسّم Ezoo Download كل ملف إلى عدة اتصالات لاستغلال كامل سرعة الإنترنت، ويستأنف التنزيل بعد انقطاع الاتصال حتى لو أغلقت البرنامج. فيديو، صوت، أرشيف أو ملفات كبيرة: كل شيء يُنظَّم تلقائيًا مع قوائم انتظار وجدولة وتحديد للسرعة.",
+        "en": "Ezoo Download splits every file across multiple connections to saturate your bandwidth, and resumes downloads after a drop, even if you closed the app. Video, audio, archives or huge files: everything is sorted automatically, with queues, a scheduler and speed limits."
+      },
+      "features": {
+        "fr": [
+          "Jusqu'à 32 connexions simultanées par fichier",
+          "Reprise automatique après coupure ou redémarrage",
+          "Téléchargement de vidéos et d'audio depuis une page",
+          "Extension navigateur pour envoyer les liens en un clic",
+          "Files d'attente, planification et arrêt du Mac en fin de tâche",
+          "Interface disponible en 8 langues, dont le français"
+        ],
+        "ar": [
+          "حتى 32 اتصالًا متزامنًا لكل ملف",
+          "استئناف تلقائي بعد انقطاع الاتصال أو إعادة التشغيل",
+          "تنزيل الفيديو والصوت من الصفحات",
+          "إضافة للمتصفح لإرسال الروابط بنقرة واحدة",
+          "قوائم انتظار وجدولة وإيقاف تشغيل الجهاز عند الانتهاء",
+          "واجهة بثماني لغات من بينها العربية"
+        ],
+        "en": [
+          "Up to 32 simultaneous connections per file",
+          "Automatic resume after a drop or a restart",
+          "Video and audio grabbing from any page",
+          "Browser extension to send links in one click",
+          "Queues, scheduling and shut-down when done",
+          "Interface available in 8 languages"
+        ]
+      },
+      "changelog": {
+        "fr": "1.0.9 — version macOS signée, installeur allégé et reprise plus fiable sur les réseaux instables.",
+        "ar": "1.0.9 — إصدار macOS موقّع، مثبّت أخف واستئناف أكثر موثوقية على الشبكات غير المستقرة.",
+        "en": "1.0.9 — signed macOS build, lighter installer and more reliable resume on flaky networks."
+      },
+      "requirements": {
+        "fr": "macOS 11 Big Sur ou plus récent · Apple Silicon et Intel",
+        "ar": "macOS 11 Big Sur أو أحدث · Apple Silicon وIntel",
+        "en": "macOS 11 Big Sur or later · Apple Silicon and Intel"
+      },
+      "downloads": [
+        {
+          "platform": "macos",
+          "label": "macOS 11+",
+          "url": "downloads/EzooDownload-1.0.9-macOS.zip",
+          "size": "74 Mo",
+          "sha256": "94d744e4e50cdd43a3c595380bddcf0425d3ec7bf44a62526e248fd91bc54302"
+        }
+      ]
+    },
+    {
+      "id": "cadre-ia",
+      "name": "CadreIA",
+      "publisher": "Hussein",
+      "icon": "assets/img/cadreia.svg",
+      "accent": "#22d3a7",
+      "category": "video",
+      "featured": true,
+      "version": "1.0.0",
+      "released": "2026-11-04",
+      "license": "Propriétaire — usage personnel",
+      "platforms": [
+        "macos"
+      ],
+      "tagline": {
+        "fr": "Recadrez vos vidéos localement, sans cloud.",
+        "ar": "اقتطع فيديوهاتك محليًا، دون سحابة.",
+        "en": "Crop your videos locally. No cloud involved."
+      },
+      "description": {
+        "fr": "CadreIA est un outil macOS léger pour recadrer et préparer des vidéos en local. Tout le traitement se fait sur votre Mac : aucun fichier n'est envoyé sur un serveur. Glissez une vidéo, choisissez le cadre, exportez.",
+        "ar": "CadreIA أداة خفيفة لنظام macOS لقص الفيديوهات وتجهيزها محليًا. تتم كل المعالجة على جهازك: لا يُرفع أي ملف إلى خادم. اسحب الفيديو، اختر الإطار، ثم صدّر.",
+        "en": "CadreIA is a lightweight macOS tool to crop and prepare videos locally. All processing happens on your Mac: nothing is uploaded to a server. Drop a video, pick the frame, export."
+      },
+      "features": {
+        "fr": [
+          "Traitement 100 % local, aucune connexion requise",
+          "Formats d'entrée MP4, MOV et QuickTime",
+          "Aperçu du cadre avant export",
+          "Interface native macOS, légère (2 Mo)",
+          "S'intègre au Finder pour ouvrir vos vidéos"
+        ],
+        "ar": [
+          "معالجة محلية 100% دون أي اتصال",
+          "صيغ الإدخال MP4 وMOV وQuickTime",
+          "معاينة الإطار قبل التصدير",
+          "واجهة macOS أصلية وخفيفة (2 ميغابايت)",
+          "يتكامل مع Finder لفتح الفيديوهات"
+        ],
+        "en": [
+          "100% local processing, no connection needed",
+          "MP4, MOV and QuickTime inputs",
+          "Frame preview before export",
+          "Native, lightweight macOS interface (2 MB)",
+          "Opens videos straight from Finder"
+        ]
+      },
+      "changelog": {
+        "fr": "1.0.0 — première version publique.",
+        "ar": "1.0.0 — الإصدار العام الأول.",
+        "en": "1.0.0 — first public release."
+      },
+      "requirements": {
+        "fr": "macOS 13 Ventura ou plus récent",
+        "ar": "macOS 13 Ventura أو أحدث",
+        "en": "macOS 13 Ventura or later"
+      },
+      "downloads": [
+        {
+          "platform": "macos",
+          "label": "macOS 13+",
+          "url": "downloads/CadreIA-1.0.0-macOS.zip",
+          "size": "1,4 Mo",
+          "sha256": "1e3143d48b58a8d7b74f0147f9910fd048c70f17037bb1af37dc4ccadb2024eb"
+        }
+      ]
+    },
+    {
+      "id": "winhuss",
+      "name": "Winhuss",
+      "publisher": "Hussein",
+      "icon": "assets/img/winhuss.svg",
+      "accent": "#38bdf8",
+      "category": "utility",
+      "featured": false,
+      "comingSoon": true,
+      "version": "1.0.0",
+      "released": "2026-11-04",
+      "license": "Gratuit — usage personnel",
+      "platforms": [
+        "macos",
+        "windows",
+        "linux"
+      ],
+      "tagline": {
+        "fr": "Tous vos formats, une seule application.",
+        "en": "Every archive format, one app.",
+        "ar": "كل صيغ الأرشيف في تطبيق واحد."
+      },
+      "description": {
+        "fr": "Winhuss ouvre, explore et extrait les archives du quotidien comme les images disque : ZIP, 7z, RAR, TAR, GZ, BZ2, XZ et ISO, sur Windows, macOS et Linux. Une seule interface, les mêmes gestes partout : glisser un fichier, choisir ce qu'on extrait, et c'est terminé. Les ISO se montent sans gravure ni extraction complète, et les archives protégées restent accessibles avec le bon mot de passe.",
+        "en": "Winhuss opens, browses and extracts everyday archives as well as disc images: ZIP, 7z, RAR, TAR, GZ, BZ2, XZ and ISO, on Windows, macOS and Linux. One interface, the same gestures everywhere: drop a file, pick what to extract, done. ISOs mount without burning or full extraction, and protected archives stay accessible with the right password.",
+        "ar": "يفتح Winhuss الأرشيفات اليومية وصور الأقراص ويستخرجها: ZIP و7z وRAR وTAR وGZ وBZ2 وXZ وISO، على Windows وmacOS وLinux. واجهة واحدة وخطوات متطابقة في كل نظام: اسحب الملف، اختر ما تريد استخراجه، وانتهى. تُثبَّت صور ISO دون حرق أو استخراج كامل، وتبقى الأرشيفات المحمية متاحة بكلمة المرور الصحيحة."
+      },
+      "features": {
+        "fr": [
+          "ZIP, 7z, RAR, TAR, GZ, BZ2, XZ et ISO",
+          "Extraction totale ou sélective, fichier par fichier",
+          "Création d'archives ZIP et 7z avec mot de passe AES-256",
+          "Montage des ISO sans gravure ni extraction complète",
+          "Glisser-déposer et menu contextuel du Finder / Explorateur",
+          "Même interface sur Windows, macOS et Linux, en FR / EN / AR"
+        ],
+        "en": [
+          "ZIP, 7z, RAR, TAR, GZ, BZ2, XZ and ISO",
+          "Full or selective extraction, file by file",
+          "Create ZIP and 7z archives with AES-256 passwords",
+          "Mount ISOs without burning or full extraction",
+          "Drag & drop and Finder / Explorer context menu",
+          "The same interface on Windows, macOS and Linux (FR / EN / AR)"
+        ],
+        "ar": [
+          "ZIP و7z وRAR وTAR وGZ وBZ2 وXZ وISO",
+          "استخراج كامل أو انتقائي، ملفًا بملف",
+          "إنشاء أرشيفات ZIP و7z بكلمات مرور AES-256",
+          "تثبيت صور ISO دون حرق أو استخراج كامل",
+          "السحب والإفلات وقائمة السياق في Finder وExplorer",
+          "واجهة موحّدة على Windows وmacOS وLinux (FR / EN / AR)"
+        ]
+      },
+      "changelog": {
+        "fr": "Sortie prévue prochainement. Les installeurs Windows, macOS et Linux seront publiés ici avec leur empreinte SHA-256.",
+        "en": "Coming soon. The Windows, macOS and Linux installers will be published here with their SHA-256 checksums.",
+        "ar": "سيصدر قريبًا. ستُنشر مثبّتات Windows وmacOS وLinux هنا مع بصمات SHA-256 الخاصة بها."
+      },
+      "requirements": {
+        "fr": "Windows 10/11 · macOS 12+ · Linux (AppImage ou .deb)",
+        "en": "Windows 10/11 · macOS 12+ · Linux (AppImage or .deb)",
+        "ar": "Windows 10/11 · macOS 12+ · Linux (AppImage أو .deb)"
+      },
+      "downloads": []
+    },
+    {
+      "id": "libreoffice",
+      "name": "LibreOffice",
+      "publisher": "The Document Foundation",
+      "icon": "assets/img/libreoffice.svg",
+      "accent": "#22c55e",
+      "category": "utility",
+      "featured": false,
+      "version": "26.8.2",
+      "released": "2026-10-29",
+      "license": "MPL 2.0 — gratuit et open source",
+      "platforms": [
+        "macos",
+        "windows",
+        "linux"
+      ],
+      "tagline": {
+        "fr": "La suite bureautique libre, compatible Office.",
+        "en": "The free office suite that works with your Office files.",
+        "ar": "حزمة مكتبية مجانية متوافقة مع ملفات Office."
+      },
+      "description": {
+        "fr": "LibreOffice réunit un traitement de texte (Writer), un tableur (Calc), des présentations (Impress), un outil de dessin (Draw) et une base de données (Base). Il ouvre et enregistre les formats Microsoft Word, Excel et PowerPoint, exporte en PDF et fonctionne sur Windows, macOS et Linux. L'interface est disponible en français, anglais et arabe, y compris en écriture de droite à gauche.",
+        "en": "LibreOffice bundles a word processor (Writer), a spreadsheet (Calc), presentations (Impress), a drawing tool (Draw) and a database (Base). It opens and saves Microsoft Word, Excel and PowerPoint files, exports to PDF and runs on Windows, macOS and Linux. The interface is available in French, English and Arabic, including right-to-left writing.",
+        "ar": "يجمع LibreOffice معالج نصوص (Writer) وجدول بيانات (Calc) وعروضًا تقديمية (Impress) وأداة رسم (Draw) وقاعدة بيانات (Base). يفتح ملفات Word وExcel وPowerPoint ويحفظها، ويصدّر بصيغة PDF، ويعمل على Windows وmacOS وLinux. الواجهة متاحة بالفرنسية والإنجليزية والعربية، بما في ذلك الكتابة من اليمين إلى اليسار."
+      },
+      "features": {
+        "fr": [
+          "Writer, Calc, Impress, Draw et Base",
+          "Ouvre et enregistre .docx, .xlsx et .pptx",
+          "Export PDF natif",
+          "Correcteur, styles et modèles",
+          "Interface FR / EN / AR avec mode droite-à-gauche",
+          "Gratuit, sans abonnement ni compte"
+        ],
+        "en": [
+          "Writer, Calc, Impress, Draw and Base",
+          "Opens and saves .docx, .xlsx and .pptx",
+          "Native PDF export",
+          "Spell checker, styles and templates",
+          "FR / EN / AR interface with right-to-left support",
+          "Free, no subscription and no account"
+        ],
+        "ar": [
+          "Writer وCalc وImpress وDraw وBase",
+          "يفتح ويحفظ ملفات .docx و.xlsx و.pptx",
+          "تصدير PDF مباشر",
+          "مدقّق إملائي وأنماط وقوالب",
+          "واجهة FR / EN / AR مع دعم الاتجاه من اليمين إلى اليسار",
+          "مجاني، دون اشتراك أو حساب"
+        ]
+      },
+      "changelog": {
+        "fr": "26.8.2 — deuxième correctif de la branche 26.8 : import/export Markdown, connecteurs dans Calc et Writer, gains de performance à l'export EPUB et SVG.",
+        "en": "26.8.2 — second bugfix of the 26.8 branch: Markdown import/export, connectors in Calc and Writer, faster EPUB and SVG export.",
+        "ar": "26.8.2 — الإصلاح الثاني من فرع 26.8: استيراد وتصدير Markdown، وموصلات في Calc وWriter، وتسريع تصدير EPUB وSVG."
+      },
+      "requirements": {
+        "fr": "Windows 10/11 · macOS 12+ (Apple Silicon ou Intel) · Linux x86-64 (deb ou rpm)",
+        "en": "Windows 10/11 · macOS 12+ (Apple Silicon or Intel) · Linux x86-64 (deb or rpm)",
+        "ar": "Windows 10/11 · macOS 12+ (Apple Silicon أو Intel) · Linux x86-64 (deb أو rpm)"
+      },
+      "downloads": [
+        {
+          "platform": "windows",
+          "label": "Windows 10/11 (x86-64)",
+          "url": "https://download.documentfoundation.org/libreoffice/stable/26.8.2/win/x86_64/LibreOffice_26.8.2_Win_x86-64.msi",
+          "sha256": "ff4b911403b67ee9e6249f820f9782c44bb32c94fdaa45b0da53a8e419e5307a"
+        },
+        {
+          "platform": "macos",
+          "label": "macOS 12+ (Apple Silicon)",
+          "url": "https://download.documentfoundation.org/libreoffice/stable/26.8.2/mac/aarch64/LibreOffice_26.8.2_MacOS_aarch64.dmg",
+          "sha256": "9f24fe83ab1ed5c95eb3df580119f32932f713e577feeac02bf619fb00749b55"
+        },
+        {
+          "platform": "macos",
+          "label": "macOS 12+ (Intel)",
+          "url": "https://download.documentfoundation.org/libreoffice/stable/26.8.2/mac/x86_64/LibreOffice_26.8.2_MacOS_x86-64.dmg",
+          "sha256": "0af062779cc17f6f852918b2424c745f7dd2d20d51d7fb8a0925eb92ec0417a7"
+        },
+        {
+          "platform": "linux",
+          "label": "Linux x86-64 (deb)",
+          "url": "https://download.documentfoundation.org/libreoffice/stable/26.8.2/deb/x86_64/LibreOffice_26.8.2_Linux_x86-64_deb.tar.gz",
+          "sha256": "8290c8f46cb33d6df8f681cb796e0697461ea070f86ec55b63c94d7eb9d9a476"
+        },
+        {
+          "platform": "linux",
+          "label": "Linux x86-64 (rpm)",
+          "url": "https://download.documentfoundation.org/libreoffice/stable/26.8.2/rpm/x86_64/LibreOffice_26.8.2_Linux_x86-64_rpm.tar.gz",
+          "sha256": "b975aa91c1066d3a97058395d85c0fa930197e98e723f2cf399493a1484b47ad"
+        }
+      ]
+    },
+    {
+      "id": "onlyoffice",
+      "name": "ONLYOFFICE",
+      "publisher": "Ascensio System SIA (ONLYOFFICE)",
+      "icon": "assets/img/onlyoffice.svg",
+      "accent": "#f97316",
+      "category": "utility",
+      "featured": false,
+      "version": "10.0.0",
+      "released": "2026-10-13",
+      "license": "AGPLv3 — gratuit",
+      "platforms": [
+        "macos",
+        "windows",
+        "linux"
+      ],
+      "tagline": {
+        "fr": "Une suite bureautique proche d'Office, en local.",
+        "en": "An Office-like office suite that runs on your desktop.",
+        "ar": "حزمة مكتبية شبيهة بـ Office تعمل على حاسوبك."
+      },
+      "description": {
+        "fr": "ONLYOFFICE Desktop Editors réunit un éditeur de documents, un tableur et un créateur de présentations dans une interface à onglets très proche de Microsoft Office. Il ouvre et enregistre les formats .docx, .xlsx et .pptx, édite aussi les PDF et fonctionne hors ligne sur Windows, macOS et Linux. Les extensions ajoutent correction, traduction ou envoi par e-mail, et la co-édition devient possible en connectant l'application à un serveur ONLYOFFICE Docs.",
+        "en": "ONLYOFFICE Desktop Editors brings a document editor, spreadsheet and presentation tool into a tabbed interface that feels very close to Microsoft Office. It opens and saves .docx, .xlsx and .pptx files, also edits PDFs and works offline on Windows, macOS and Linux. Extensions add spell checking, translation or email sending, and co-editing is available by connecting the app to an ONLYOFFICE Docs server.",
+        "ar": "يجمع ONLYOFFICE Desktop Editors محرّر مستندات وجدول بيانات وأداة عروض تقديمية في واجهة بتبويبات قريبة جدًا من Microsoft Office. يفتح ويحفظ ملفات .docx و.xlsx و.pptx، ويحرّر ملفات PDF أيضًا، ويعمل دون اتصال على Windows وmacOS وLinux. تضيف الإضافات التدقيق الإملائي والترجمة والإرسال بالبريد، ويتيح الاتصال بخادم ONLYOFFICE Docs التحرير المشترك."
+      },
+      "features": {
+        "fr": [
+          "Documents, tableur, présentations et PDF",
+          "Compatibilité .docx, .xlsx et .pptx",
+          "Interface à onglets proche d'Office",
+          "Fonctionne hors ligne",
+          "Extensions et plugins",
+          "Co-édition via ONLYOFFICE Docs"
+        ],
+        "en": [
+          "Documents, spreadsheets, presentations and PDF",
+          "Works with .docx, .xlsx and .pptx",
+          "Office-like tabbed interface",
+          "Works offline",
+          "Extensions and plugins",
+          "Co-editing through ONLYOFFICE Docs"
+        ],
+        "ar": [
+          "مستندات وجداول بيانات وعروض تقديمية وملفات PDF",
+          "توافق مع .docx و.xlsx و.pptx",
+          "واجهة بتبويبات شبيهة بـ Office",
+          "يعمل دون اتصال بالإنترنت",
+          "إضافات وملحقات",
+          "تحرير مشترك عبر ONLYOFFICE Docs"
+        ]
+      },
+      "changelog": {
+        "fr": "10.0.0 — applications modulaires, outils d'IA et plus de 50 nouveautés, avec une meilleure compatibilité avec les fichiers Microsoft Office.",
+        "en": "10.0.0 — modular apps, AI tools and 50+ new features, with improved compatibility for Microsoft Office files.",
+        "ar": "10.0.0 — تطبيقات معيارية وأدوات ذكاء اصطناعي وأكثر من 50 ميزة جديدة، مع توافق أفضل مع ملفات Microsoft Office."
+      },
+      "requirements": {
+        "fr": "Windows 7+ · macOS 10.13+ · Linux x86-64 (deb ou rpm)",
+        "en": "Windows 7+ · macOS 10.13+ · Linux x86-64 (deb or rpm)",
+        "ar": "Windows 7+ · macOS 10.13+ · Linux x86-64 (deb أو rpm)"
+      },
+      "downloads": [
+        {
+          "platform": "windows",
+          "label": "Windows 10/11 (x86-64)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_x64.exe",
+          "size": "286 Mo",
+          "sha256": "e9f6df29bb09770cfc14c9ebb9bce881ff7ad9705d76b3faf038831fe248e46b"
+        },
+        {
+          "platform": "windows",
+          "label": "Windows 11 (ARM64)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_arm64.exe",
+          "size": "254 Mo",
+          "sha256": "8e91b5387d993f9446058fa8630fec0db2a28c406520638e23f6006377c86d40"
+        },
+        {
+          "platform": "macos",
+          "label": "macOS 10.13+ (Apple Silicon)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/ONLYOFFICE-arm.dmg",
+          "size": "324 Mo",
+          "sha256": "9095cc8c46f1206237d690c7e146fada0d72dbf7f40c035cd5fd218b680c2deb"
+        },
+        {
+          "platform": "macos",
+          "label": "macOS 10.13+ (Intel)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/ONLYOFFICE-x86_64.dmg",
+          "size": "337 Mo",
+          "sha256": "769f514a1030aad3af0d654dff22b93ea11689afa3a59b98579a3ea19e3fa7a4"
+        },
+        {
+          "platform": "linux",
+          "label": "Linux x86-64 (deb)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/onlyoffice-desktopeditors_amd64.deb",
+          "size": "266 Mo",
+          "sha256": "2190edb4022a2ac2f6eee0f78815520f0e4ece1e8a1097c645a6f9b225c8b59c"
+        },
+        {
+          "platform": "linux",
+          "label": "Linux x86-64 (rpm)",
+          "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/onlyoffice-desktopeditors.x86_64.rpm",
+          "size": "278 Mo",
+          "sha256": "2572599736765cef388f9a16aa8e89706919e2421c67d3b2db180c18db49c6bf"
+        }
+      ]
+    },
+    {
+      "id": "pixelsort",
+      "name": "PixelSort",
+      "publisher": "Hussein Studio Crack",
+      "icon": "assets/img/pixelsort.svg",
+      "accent": "#f59e0b",
+      "category": "utility",
+      "featured": false,
+      "comingSoon": true,
+      "version": "2.3.1",
+      "released": "2026-10-18",
+      "license": "Gratuit",
+      "platforms": [
+        "macos",
+        "windows",
+        "linux"
+      ],
+      "tagline": {
+        "fr": "Tri de pixels et effets glitch, sans Photoshop.",
+        "en": "Pixel sorting and glitch effects, without Photoshop.",
+        "ar": "ترتيب البكسلات وتأثيرات الغليتش دون فوتوشوب."
+      },
+      "description": {
+        "fr": "PixelSort réorganise les pixels d'une image selon leur luminosité, leur teinte, leur saturation ou un canal RVB pour produire des traînées et des effets glitch. Réglez les seuils bas et haut, choisissez la direction et l'angle du tri, puis exportez en PNG ou JPEG. Le traitement par lot applique le même effet à une série de photos, et chaque réglage peut être enregistré comme préréglage.",
+        "en": "PixelSort rearranges an image's pixels by brightness, hue, saturation or a single RGB channel to create streaks and glitch effects. Set the low and high thresholds, pick the sorting direction and angle, then export as PNG or JPEG. Batch processing applies the same look to a whole set of photos, and every setting can be saved as a preset.",
+        "ar": "يعيد PixelSort ترتيب بكسلات الصورة حسب السطوع أو درجة اللون أو التشبّع أو قناة RGB واحدة لإنتاج خطوط وتأثيرات غليتش. اضبط الحدّين الأدنى والأعلى، واختر اتجاه الترتيب وزاويته، ثم صدّر بصيغة PNG أو JPEG. تعالج المعالجة الدفعية مجموعة صور دفعة واحدة، ويمكن حفظ كل إعداد كقالب جاهز."
+      },
+      "features": {
+        "fr": [
+          "Tri par luminosité, teinte, saturation ou canal RVB",
+          "Seuils bas et haut réglables",
+          "Tri horizontal, vertical ou incliné",
+          "Aperçu en direct avant export",
+          "Export PNG / JPEG et traitement par lot",
+          "Préréglages réutilisables"
+        ],
+        "en": [
+          "Sort by brightness, hue, saturation or RGB channel",
+          "Adjustable low and high thresholds",
+          "Horizontal, vertical or angled sorting",
+          "Live preview before export",
+          "PNG / JPEG export and batch processing",
+          "Reusable presets"
+        ],
+        "ar": [
+          "ترتيب حسب السطوع أو درجة اللون أو التشبّع أو قناة RGB",
+          "حدّان أدنى وأعلى قابلان للضبط",
+          "ترتيب أفقي أو عمودي أو مائل",
+          "معاينة مباشرة قبل التصدير",
+          "تصدير PNG / JPEG ومعالجة دفعية",
+          "قوالب إعدادات قابلة لإعادة الاستخدام"
+        ]
+      },
+      "changelog": {
+        "fr": "2.3.1 — nouveaux réglages de seuil, aperçu plus rapide et corrections d'export.",
+        "en": "2.3.1 — new threshold controls, faster preview and export fixes.",
+        "ar": "2.3.1 — إعدادات حدّ جديدة، معاينة أسرع وإصلاحات في التصدير."
+      },
+      "requirements": {
+        "fr": "macOS 12+ · Windows 10/11 · Linux (AppImage ou .deb)",
+        "en": "macOS 12+ · Windows 10/11 · Linux (AppImage or .deb)",
+        "ar": "macOS 12+ · Windows 10/11 · Linux (AppImage أو .deb)"
+      },
+      "downloads": []
+    }
+  ]
+}
