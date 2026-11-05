@@ -1,5 +1,5 @@
 /* ============================================================
-   Hussein Studio Crack — logique du site
+   Hussein Studio — logique du site
    - catalogue piloté par data/apps.json
    - filtres (catégorie, plateforme, recherche), tri
    - modale de détails, téléchargements, vérification SHA-256

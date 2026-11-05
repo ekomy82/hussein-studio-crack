@@ -1,5 +1,5 @@
 /* ============================================================
-   Hussein Studio Crack — feuille de styles
+   Hussein Studio — feuille de styles
    Thème sombre par défaut, thème clair via [data-theme="light"].
    Toutes les marges utilisent des propriétés logiques (RTL-ready).
    ============================================================ */
@@ -215,7 +215,7 @@ button {
   line-height: 1.2;
 }
 
-.brand-crack {
+.brand-accent {
   font-style: normal;
   background: linear-gradient(135deg, #a78bfa, #38bdf8);
   -webkit-background-clip: text;
@@ -223,7 +223,7 @@ button {
   color: transparent;
 }
 
-[data-theme="light"] .brand-crack {
+[data-theme="light"] .brand-accent {
   background: linear-gradient(135deg, #7c3aed, #0284c7);
   -webkit-background-clip: text;
   background-clip: text;

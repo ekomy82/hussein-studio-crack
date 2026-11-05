@@ -1,10 +1,10 @@
-# Hussein Studio Crack
+# Hussein Studio
 
-Site de téléchargement de logiciels en ligne, orienté catalogue public, téléchargement direct et administration protégée.
+Catalogue public de logiciels, outils et ressources officielles de Hussein Studio.
 
 ## Aperçu
 
-Hussein Studio Crack est un site de type software portal avec :
+Hussein Studio est un site de type software portal avec :
 
 - catalogue public moderne et sombre
 - téléchargement direct des fichiers
@@ -29,7 +29,7 @@ Accès local :
 ## Structure du projet
 
 ```text
-hussein-studio-crack/
+hussein-studio-catalog/
 ├── server.js
 ├── package.json
 ├── render.yaml

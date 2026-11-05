@@ -1,8 +1,8 @@
 {
-  "name": "hussein-studio-crack-site",
+  "name": "hussein-studio-catalog-site",
   "version": "1.1.0",
   "private": true,
-  "description": "Site de téléchargement des logiciels Hussein Studio Crack avec backend et uploads.",
+  "description": "Site de téléchargement des logiciels Hussein Studio avec backend et uploads.",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"

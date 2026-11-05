@@ -6,9 +6,9 @@
 
 window.I18N = {
   fr: {
-    "meta.title": "Hussein Studio Crack — Télécharger nos logiciels",
+    "meta.title": "Hussein Studio — Télécharger nos logiciels",
     "meta.description":
-      "Téléchargez les logiciels de Hussein Studio Crack : gestionnaire de téléchargement, outils vidéo et utilitaires. Fichiers vérifiés, sans compte.",
+      "Découvrez les logiciels, outils et ressources officielles de Hussein Studio. Catalogue public, licences claires et téléchargements vérifiés.",
 
     "a11y.skip": "Aller au catalogue",
     "a11y.theme": "Changer de thème",
@@ -26,7 +26,7 @@ window.I18N = {
     "hero.eyebrow": "Winhuss, l’archiveur universel, arrive bientôt",
     "hero.title": "Des logiciels utiles, prêts à <em>télécharger</em>.",
     "hero.lead":
-      "Téléchargez les applications de Hussein Studio Crack directement, sans compte ni détour. Chaque fichier est publié avec son empreinte SHA-256.",
+      "Téléchargez les applications de Hussein Studio directement, sans compte ni détour. Chaque fichier est publié avec son empreinte SHA-256.",
     "hero.search": "Rechercher un logiciel…",
     "hero.hint": "Astuce : appuyez sur / pour rechercher",
 
@@ -90,7 +90,7 @@ window.I18N = {
     "faq.a4":
       "Chaque fiche indique la version et la date de publication. Revenez sur cette page ou activez les notifications de l'application lorsqu'elles existent.",
 
-    "footer.rights": "© {year} Hussein Studio Crack. Tous droits réservés.",
+    "footer.rights": "© {year} Hussein Studio. Tous droits réservés.",
     "footer.catalogue": "Catalogue",
     "footer.contact": "Contact",
     "footer.admin": "Espace admin",
@@ -119,9 +119,9 @@ window.I18N = {
   },
 
   en: {
-    "meta.title": "Hussein Studio Crack — Download our software",
+    "meta.title": "Hussein Studio — Download our software",
     "meta.description":
-      "Download Hussein Studio Crack apps: download manager, video tools and utilities. Verified files, no account required.",
+      "Download Hussein Studio apps: download manager, video tools and utilities. Verified files, no account required.",
 
     "a11y.skip": "Skip to catalogue",
     "a11y.theme": "Toggle theme",
@@ -139,7 +139,7 @@ window.I18N = {
     "hero.eyebrow": "Winhuss, the universal archiver, is on its way",
     "hero.title": "Useful software, ready to <em>download</em>.",
     "hero.lead":
-      "Get Hussein Studio Crack apps straight from us — no account, no detour. Every file ships with its SHA-256 checksum.",
+      "Get Hussein Studio apps straight from us — no account, no detour. Every file ships with its SHA-256 checksum.",
     "hero.search": "Search software…",
     "hero.hint": "Tip: press / to search",
 
@@ -203,7 +203,7 @@ window.I18N = {
     "faq.a4":
       "Each app page shows its version and release date. Check back here, or enable in-app update notifications when the app offers them.",
 
-    "footer.rights": "© {year} Hussein Studio Crack. All rights reserved.",
+    "footer.rights": "© {year} Hussein Studio. All rights reserved.",
     "footer.catalogue": "Catalogue",
     "footer.contact": "Contact",
     "footer.admin": "Admin",
@@ -232,9 +232,9 @@ window.I18N = {
   },
 
   ar: {
-    "meta.title": "Hussein Studio Crack — حمّل برامجنا",
+    "meta.title": "Hussein Studio — حمّل برامجنا",
     "meta.description":
-      "حمّل تطبيقات Hussein Studio Crack: مدير تنزيلات وأدوات فيديو وأدوات مساعدة. ملفات موثّقة دون الحاجة إلى حساب.",
+      "حمّل تطبيقات Hussein Studio: مدير تنزيلات وأدوات فيديو وأدوات مساعدة. ملفات موثّقة دون الحاجة إلى حساب.",
 
     "a11y.skip": "انتقل إلى قائمة البرامج",
     "a11y.theme": "تغيير السمة",
@@ -252,7 +252,7 @@ window.I18N = {
     "hero.eyebrow": "Winhuss، أداة الأرشيف الشاملة، في الطريق إليك",
     "hero.title": "برامج مفيدة، جاهزة <em>للتنزيل</em>.",
     "hero.lead":
-      "حمّل تطبيقات Hussein Studio Crack مباشرة، دون حساب أو خطوات إضافية. كل ملف يُنشر مع بصمة SHA-256 الخاصة به.",
+      "حمّل تطبيقات Hussein Studio مباشرة، دون حساب أو خطوات إضافية. كل ملف يُنشر مع بصمة SHA-256 الخاصة به.",
     "hero.search": "ابحث عن برنامج…",
     "hero.hint": "تلميح: اضغط / للبحث",
 
@@ -316,7 +316,7 @@ window.I18N = {
     "faq.a4":
       "تعرض كل صفحة رقم الإصدار وتاريخ النشر. عُد إلى هذه الصفحة، أو فعّل إشعارات التحديث داخل البرنامج إن كانت متاحة.",
 
-    "footer.rights": "© {year} Hussein Studio Crack. جميع الحقوق محفوظة.",
+    "footer.rights": "© {year} Hussein Studio. جميع الحقوق محفوظة.",
     "footer.catalogue": "القائمة",
     "footer.contact": "اتصال",
     "footer.admin": "لوحة التحكم",

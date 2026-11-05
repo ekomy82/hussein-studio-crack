@@ -174,7 +174,7 @@ app.use(function (req, res) {
 
 app.listen(PORT, HOST, function () {
   console.log("");
-  console.log("  Hussein Studio Crack — backend actif");
+  console.log("  Hussein Studio — backend actif");
   console.log("  ----------------------------------------");
   console.log("  Site   : http://" + HOST + ":" + PORT + "/");
   console.log("  Admin  : http://" + HOST + ":" + PORT + "/admin");

@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hussein-studio-crack
+    name: hussein-studio-catalog
     env: node
     plan: free
     buildCommand: npm install
